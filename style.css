@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #333;
+    background-color: rgb(29, 68, 119);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -62,8 +62,12 @@ h1 {
     background-color: rgba(0, 0, 0, 0.2);
 }
 
-footer {
+footer a {
     margin-top: 20px;
     color: #FFF;
+    text-decoration: none;
     font-size: 13px;
+}
+footer {
+    margin-top: 10px;
 }
