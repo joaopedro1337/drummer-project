@@ -8,9 +8,8 @@
 Clicando nas teclas do teclaado (Q,W,E,A,S,D,Z,X,C) emitem sons diferentes podendo até fazer um sonzinho ótimo.
 
 ## 💻 Tecnologias utilizadas:
+* Visual Studio Code;
+* Versionamento de código: Git
 * HTML5
 * CSS3
 * JAVASCRIPT
-
-
-
